@@ -3,6 +3,8 @@ BJC Sol compatible cover plates
 
 A collection of faceplate covers for the BJC Sol series sockets.
 
+Available on Printables: https://www.printables.com/model/1874649-bjc-sol-compatible-cover-plates
+
 BjcHalfCovers.FCStd
 -------------------
 
